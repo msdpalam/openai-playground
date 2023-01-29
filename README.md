@@ -14,6 +14,7 @@ Azure OpenAI Service is now [General Availability](https://azure.microsoft.com/e
  - Install OpenAI client library
  
     `pip install openai
+    
      pip install --upgrade openai (if you would like to upgrade to the latest)
     ` 
  - pip install python-dotenv, if you would like to use .env file to load the environment information from
