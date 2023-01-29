@@ -6,7 +6,7 @@ Azure OpenAI Service is now [General Availability](https://azure.microsoft.com/e
 
   - Access granted to the Azure OpenAI service in the desired Azure subscription
 
-  - Currently, access to this service is granted only by application. You can apply for access to the Azure OpenAI service by completing the form at https://aka.ms/oai/access. Open an issue on this repo to contact us if you have an issue.
+  Currently, access to this service is granted only by application. You can apply for access to the Azure OpenAI service by completing the form at https://aka.ms/oai/access. Open an issue on this repo to contact us if you have an issue.
 
  - Python 3.7.1 or later version
 
