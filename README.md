@@ -1,4 +1,5 @@
 # openai-playground
+Azure OpenAI Service is now [General Availability](https://azure.microsoft.com/en-us/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/). The goal of this playground is to share some of the example scripts, hoping it will help getting up to speed with Azure OpenAI Service to and then build build powerful solutions on top of Azure OpenAI Service
 
 ## Prerequisites
  - An Azure subscription - [Create one for free](https://azure.microsoft.com/free/cognitive-services)
