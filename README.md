@@ -8,8 +8,10 @@ Azure OpenAI Service is now [General Availability](https://azure.microsoft.com/e
 
     Currently, access to this service is granted only by application. You can apply for access to the Azure OpenAI service by completing the form at https://aka.ms/oai/access. Open an issue on this repo to contact us if you have an issue.
 
- - Python 3.7.1 or later version
+ - Install Python 3.7.1 or later version if you don’t have installed, from [here](https://github.com/openai/openai-quickstart-python)
 
  - The following Python libraries: os, requests, json
-
- - An Azure OpenAI Service resource with a model deployed. If you don't have a resource/model the process is documented in our [resource deployment guide](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/create-resource)
+ - Install OpenAI client library
+    pip install openai
+    pip install --upgrade openai (if you would like to upgrade to the latest)
+ - pip install python-dotenv, if you would like to use .env file to load the environment information from
