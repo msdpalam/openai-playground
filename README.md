@@ -20,6 +20,6 @@ Azure OpenAI Service is now [General Availability](https://azure.microsoft.com/e
     ` 
  - If you would like to use .env file to load the environment information from
  
- `
- pip install python-dotenv
- `
+   `
+   pip install python-dotenv
+   `
