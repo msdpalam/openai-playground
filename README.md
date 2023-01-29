@@ -23,3 +23,8 @@ Azure OpenAI Service is now [General Availability](https://azure.microsoft.com/e
    `
    pip install python-dotenv
    `
+ - Create an environment variables file
+ 
+   In VSCode, create new file called .env. I already have one environment file created. You can copy it and add your own environment variables if needed.
+   
+   
