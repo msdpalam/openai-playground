@@ -15,6 +15,7 @@ Azure OpenAI Service is now [General Availability](https://azure.microsoft.com/e
     ` virtualenv -p python3 myopenenv
     
     ` source myopenenv/bin/activate
+    
  - The following Python libraries: os, requests, json
  - Install OpenAI client library
  
