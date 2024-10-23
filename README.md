@@ -48,7 +48,7 @@ Other references:
 
 
 #### Disclaimer
-The content share in this GitHub repo is solely for learning purposes. The thoughts, opinions, and perspectives expressed on this account are my own and do not reflect those of my employer or any official positions associated with my work. My content is shared in a personal capacity and is not representative of my role or responsibilities as an employee of the federal government.
+The content shared in this GitHub repo is solely for learning purposes. The thoughts, opinions, and perspectives expressed on this account are my own and do not reflect those of my employer or any official positions associated with my work. My content is shared in a personal capacity and is not representative of my role or responsibilities as an employee of the federal government.
 
 When I am sharing the examples, I will be searching for examples, all over the web and will running in my environment first to learn from it and then to share it hear as a reference, in case it becomes handy. If I am not quoting the original author, it will be accidental. I deeply respect all the authors and their contribution in the community and if I am sharing, it is purely for learning purposes. I will try my best to share the reference for all contents I review.
 
